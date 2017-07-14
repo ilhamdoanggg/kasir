@@ -16,8 +16,9 @@
 	- pada web browser address bar ketikan localhost / 127.0.0.1
 
 3. User and Password
+
 	| user        | Password     | level  |
-	| ----------- |:------------:| ------:|
+	| ----------- |------------| ------|
 	| admin       | admin        | admin  |
 	| pegawai     | admin        |   user |
 
