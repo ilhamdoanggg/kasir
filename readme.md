@@ -1,6 +1,6 @@
 ## readme first!!!!
 
--- penempatan hosting --
+### penempatan hosting 
 1. jika di windows dengan xampp
 	- letakan file di dalam "C:/xampp/htdoct" tanpa sub folder
 	- import database dari folder db
